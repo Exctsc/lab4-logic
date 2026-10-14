@@ -35,3 +35,17 @@ footer {
   font-size: 12px;
   color: gray;
 }
+
+#nameArea {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+#coffeeText {
+  font-size: 14px;
+  color: gray;
+}
